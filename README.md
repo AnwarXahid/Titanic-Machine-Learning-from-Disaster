@@ -1,7 +1,7 @@
 # Titanic-Machine-Learning-from-Disaster
 This project is developed to participate in Entry level kaggle competition.
 
-Dataset: Download from here: https://www.kaggle.com/c/titanic/data
+Dataset: Downloaded from here: https://www.kaggle.com/c/titanic/data
 
 Goal: My goal is to predict whether a passenger survive or not.
 
